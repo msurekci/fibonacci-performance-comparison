@@ -1,0 +1,16 @@
+{
+  "name": "fib-performance-comparison",
+  "version": "1.0.0",
+  "description": "Comparing recursively and iteratively getting fibonacci numbers in terms of performance",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fibonacci",
+    "recursion",
+    "iterating"
+  ],
+  "author": "Mahmut Surekci",
+  "license": "ISC"
+}
